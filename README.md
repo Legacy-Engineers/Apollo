@@ -1,2 +1,2 @@
 # Apollo
-An ERP written in rust.
+My python web framework
