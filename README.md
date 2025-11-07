@@ -1,2 +1,2 @@
 # Apollo
-My python web framework
+An OCR (Optical Character Recognition) engine that can extract text from images.
